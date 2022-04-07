@@ -4,17 +4,18 @@
 <p align="center" style="width: 100%;">
   <img 
     align="center"
-    style="height: 215px; width: 700px;"
+    style="height: 215px;"
     src="https://github-readme-stats-phoward38.vercel.app/api/top-langs?username=phoward38&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="phoward38" 
   />
+  <a style="margin-left: 25px; margin-right: 25px;">
+    <img
+      align="center" 
+      src="https://github-profile-trophy.vercel.app/?username=phoward38&theme=onestar&row=2&column=2" alt="phoward38" 
+    />
+  </a>
   <img 
-  style="margin-left: -85px;"
   align="center" 
-  src="https://github-profile-trophy.vercel.app/?username=phoward38&theme=onestar&row=2&column=2" alt="phoward38" 
-  />
-  <img 
-  align="center" 
-  style="height: 215px; width: 700px;"
+  style="height: 215px;"
   src="https://github-readme-stats-phoward38.vercel.app/api?username=phoward38&hide=stars&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="phoward38" 
   />
 </p>
@@ -114,7 +115,7 @@
 <br/>
 <p align="center">
   <a href="https://dev.to/phoward38" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phoward38" width="50" height="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phoward38" width="50" height="50" />
   </a>
   <a href="https://twitter.com/phowtychobra" target="_blank" style="margin: 50px">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phowtychobra" width="50" height="50" />
