@@ -10,7 +10,7 @@
   <a style="margin-left: 25px; margin-right: 25px;">
     <img
       align="center" 
-      src="https://github-profile-trophy.vercel.app/?username=phoward38&theme=onestar&row=2&column=2" alt="phoward38" 
+      src="https://github-profile-trophy-phoward38.vercel.app/?username=phoward38&theme=onestar&row=2&column=2" alt="phoward38" 
     />
   </a>
   <img 
