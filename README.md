@@ -3,20 +3,21 @@
 <br/>
 <p align="center" style="width: 100%;">
   <img 
-    align="center"
+    align="center" 
     style="height: 215px;"
-    src="https://github-readme-stats-phoward38.vercel.app/api/top-langs?username=phoward38&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="phoward38" 
+    src="https://github-readme-stats-phoward38.vercel.app/api/?username=phoward38&role=COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="phoward38" 
   />
-  <a style="margin-left: 25px; margin-right: 25px;">
+  <a>
     <img
-      align="center" 
-      src="https://github-profile-trophy-phoward38.vercel.app/?username=phoward38&theme=onestar&row=2&column=2" alt="phoward38" 
+      align="center"
+      style="margin: 25px;"
+      src="https://github-profile-trophy-phoward38.vercel.app/?username=phoward38&theme=github_dark&row=4&column=4" alt="phoward38"
     />
   </a>
   <img 
-  align="center" 
-  style="height: 215px;"
-  src="https://github-readme-stats-phoward38.vercel.app/api?username=phoward38&hide=stars&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="phoward38" 
+    align="center"
+    style="height: 215px;"
+    src="https://github-readme-stats-phoward38.vercel.app/api/top-langs?username=phoward38&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=6&hide=HTML,jupyter%20notebook,AMPL,Perl,Perl%206,PHP,Roff,c,c%2B%2B,stata,makefile,hack,rebol,c%23%0A,awk,qmake,batchfile,lua,tex,vue&exclude_repo=Crohns,Accurator,shiny-server,keepr_shinyMobile" alt="phoward38" 
   />
 </p>
 
