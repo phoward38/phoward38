@@ -154,7 +154,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phoward38" width="50" height="50" />
   </a>
 </p>
-<br/>
+<!-- <br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phoward38&label=Profile%20views&color=0e75b6&style=flat" alt="phoward38" />
-</p>
+</p> -->
