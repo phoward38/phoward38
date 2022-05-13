@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Patrick Howard</h1>
-<h3 align="center">Full Stack Developer with a stack that never stops growing.</h3>
+<h3 align="center">Full-Stack Software Engineer with a stack that never stops growing.</h3>
 <br/>
 <p align="center" style="width: 100%;">
   <a href="https://app.daily.dev/phoward38"><img align="center" src="https://api.daily.dev/devcards/d94bd000820043ae847ce632b3ad63c0.png?r=8zb" width="200" alt="Patrick Howard's Dev Card"/></a>
