@@ -146,7 +146,7 @@
   </a>
   &emsp;
   &emsp;
-  <a href="https://twitter.com/phowtychobra" target="_blank">
+  <a href="https://twitter.com/PatrickHoward38" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phowtychobra" width="50" height="50" />
   </a>
   &emsp;
