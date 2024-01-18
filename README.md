@@ -132,10 +132,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> 
   </a>
-  &emsp;
+<!--   &emsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="75" height="75"/> 
-  </a>
+  </a> -->
 </p>
 <br/>
 <h2 align="center">Social Links:</h2>
