@@ -1,14 +1,15 @@
 <h1 align="center">Welcome 👋, I'm Patrick Howard</h1>
 <h3 align="center">Full-Stack Software Engineer with a stack that never stops growing.</h3>
 <br/>
-<p align="center" style="width: 100%;">
-  <a href="https://app.daily.dev/phoward38"><img align="center" src="https://api.daily.dev/devcards/d94bd000820043ae847ce632b3ad63c0.png?r=8zb" width="200" alt="Patrick Howard's Dev Card"/></a>
+<div align="center" style="width: 50%; display: inline-flex !IMPORTANT; flex-direction: column !IMPORTANT;">
+<!-- <p align="center" style="width: 100%;"> -->
+<!--   <a href="https://app.daily.dev/phoward38"><img align="center" src="https://api.daily.dev/devcards/d94bd000820043ae847ce632b3ad63c0.png?r=8zb" width="200" alt="Patrick Howard's Dev Card"/></a>
   <img 
     align="center" 
     style="height: 215px;"
     src="https://github-readme-stats-phoward38.vercel.app/api/?username=phoward38&role=COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="phoward38" 
   />
-  &emsp;
+  &emsp; -->
   <a>
     <img
       align="center"
@@ -21,7 +22,19 @@
     style="height: 215px;"
     src="https://github-readme-stats-phoward38.vercel.app/api/top-langs?username=phoward38&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=6&hide=HTML,jupyter%20notebook,AMPL,Perl,Perl%206,PHP,Roff,c,c%2B%2B,stata,makefile,hack,rebol,c%23%0A,awk,qmake,batchfile,lua,tex,vue&exclude_repo=Crohns,Accurator,shiny-server,keepr_shinyMobile" alt="phoward38" 
   />
-</p>
+  <img 
+    align="center" 
+    style="height: 215px;"
+    src="https://github-readme-stats-phoward38.vercel.app/api/?username=phoward38&role=COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="phoward38" 
+  />
+</div>
+<span align="center" style="width: 30%; vertical-align: top;">
+  <a href="https://app.daily.dev/phoward38">
+    <img align="center" src="https://api.daily.dev/devcards/d94bd000820043ae847ce632b3ad63c0.png?r=8zb" width="350" height="500" alt="Patrick Howard's Dev Card"/>
+  </a>
+<!--   &emsp; -->
+<!-- </p> -->
+</span>
 
 <h2 align="center">Languages and Tools (WIP):</h2>
 <br/>
@@ -51,12 +64,16 @@
   </a>
   <br/>
   <br/>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="javascript" width="75" height="75"/> 
   </a>
-  &emsp;
+  &emsp; -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> 
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="75" height="75"/> 
   </a>
   &emsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -93,10 +110,21 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="75" height="75"/> 
   </a>
   &emsp;
+  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="75" height="75"/> 
+  </a>
+  &emsp;
+  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_prisma.svg" alt="graphql" width="75" height="75"/> 
+  </a>
+  &emsp;
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="75" height="75"/> 
   </a>
   &emsp;
+  <a href="https://aws.amazon.com/s3" target="_blank" rel="noreferrer"> 
+    <img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" alt="s3" width="75" height="75" style="border-radius: 10px;"/> 
+  </a>
   <br/>
   <br/>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
@@ -105,6 +133,10 @@
   &emsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/> 
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="75" height="75"/> 
   </a>
   &emsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
