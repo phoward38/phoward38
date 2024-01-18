@@ -33,7 +33,7 @@
   />
 </div>
 
-<h2 align="center">Languages and Tools (WIP):</h2>
+<h2 align="center">Programming Languages, Frameworks & Tools:</h2>
 <br/>
 <p align="center">
   <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> 
