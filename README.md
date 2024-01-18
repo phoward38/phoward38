@@ -5,12 +5,12 @@
 <br/>
 <div align="center" style="width: 100%; margin: 15px;">
   <a href="https://app.daily.dev/phoward38" target="_blank">
-    <img align="center" width="165" height="225" src="https://api.daily.dev/devcards/d94bd000820043ae847ce632b3ad63c0.png?r=8zb" alt="Patrick Howard's Dev Card" style="margin: 15px;"/>
+    <img align="center" width="160" height="225" src="https://api.daily.dev/devcards/d94bd000820043ae847ce632b3ad63c0.png?r=8zb" alt="Patrick Howard's Dev Card" style="margin: 15px;"/>
   </a>
   &emsp;
   <img 
     align="center" 
-    style="height: 225px; margin: '15px';"
+    style="height: 220px; margin: '15px';"
     src="https://github-readme-stats-phoward38.vercel.app/api/?username=phoward38&role=COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en" alt="phoward38" 
   />
   &emsp;
@@ -21,13 +21,14 @@
     <img
       align="center"
       style="margin: 15px;"
+      height="180"
       src="https://github-profile-trophy-phoward38.vercel.app/?username=phoward38&theme=github_dark&row=4&column=4" alt="phoward38"
     />
   </a>
   &emsp;
   <img 
     align="center"
-    style="height: 220px; margin: '15px';"
+    style="height: 180px; margin: '15px';"
     src="https://github-readme-stats-phoward38.vercel.app/api/top-langs?username=phoward38&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=github_dark&locale=en&layout=compact&langs_count=6&hide=HTML,jupyter%20notebook,AMPL,Perl,Perl%206,PHP,Roff,c,c%2B%2B,stata,makefile,hack,rebol,c%23%0A,awk,qmake,batchfile,lua,tex,vue&exclude_repo=Crohns,Accurator,shiny-server,keepr_shinyMobile" alt="phoward38" 
   />
 </div>
