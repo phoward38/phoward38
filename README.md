@@ -40,8 +40,8 @@
     <img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="75" height="75"/> 
   </a>
   &emsp;
-  <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="rstudio" width="170" height="75"/> 
+  <a href="https://posit.co/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/refs/heads/main/SVG/RStudio.svg" alt="rstudio" width="75" height="75"/> 
   </a>
   &emsp;
   <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer"> 
